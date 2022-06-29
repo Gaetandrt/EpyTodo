@@ -25,4 +25,4 @@ node src/index.js
 ## Fabriqué avec
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Environnement de développement
-* [NodeJS](https://nodejs.org/en/)
+* [NodeJS](https://nodejs.org/en/) - Langage de programmation Web
