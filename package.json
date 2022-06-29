@@ -1,0 +1,19 @@
+{
+  "name": "b-web-200-mpl-2-1-epytodo-gaetan.darrort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpitechPromo2026/B-WEB-200-MPL-2-1-epytodo-gaetan.darrort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EpitechPromo2026/B-WEB-200-MPL-2-1-epytodo-gaetan.darrort/issues"
+  },
+  "homepage": "https://github.com/EpitechPromo2026/B-WEB-200-MPL-2-1-epytodo-gaetan.darrort#readme"
+}
